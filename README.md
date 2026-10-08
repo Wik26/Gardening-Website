@@ -5,7 +5,7 @@ A web application built to understand the foundations of Laravel concepts, inclu
 
 This project focused heavily on mastering core Laravel features to develop an e-commerce website that utilises and manipulates a relational database based on user interactions.
 
-## Tasks & Responsibilities
+## Responsibilities
 For this individual university project, I was responsible for developing the entire application logic within a provided project template. My primary goal was to demonstrate a strong understanding and practical implementation of Laravel functionalities.
 
 ## Technical Tools
